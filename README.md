@@ -35,7 +35,11 @@ The project implements a full digital signal processing (DSP) hardware pipeline:
 * **Power Dissipation:** Highly optimized power profile with an estimated total on-chip power consumption of just **0.455 W**.
 * **FPGA Resource Allocation:** Excellent balancing across the Artix-7 fabric. The most dense block remains the Block RAM (44% utilization) due to the spectral depth required for visual interpolation.
 * **Timing Closure:** All hardware timing constraints met with positive margins ($WNS = +0.623\text{ ns}$), guaranteeing reliable long-term system stability on-silicon.
-  
+
+
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat&logo=matlab&logoColor=white)
+
+
 ## 🚀 How to run the project
 * Downlaod the folder PROGETTO_VIVADO
 * Open the folder in vivado
