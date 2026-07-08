@@ -37,7 +37,7 @@ The project implements a full digital signal processing (DSP) hardware pipeline:
 * **Timing Closure:** All hardware timing constraints met with positive margins ($WNS = +0.623\text{ ns}$), guaranteeing reliable long-term system stability on-silicon.
 
 
-## # <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="35"> Run Matlab simulations
+## <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="35"> Run Matlab simulations
 * Open 	MATLAB_SCRIPT_ DIGITAL _FILTER,FFT simulations.pdf
 * Copy the code on Matlab editor and run
 * Change the frequency of the input signal to see the output after filtering 
