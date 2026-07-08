@@ -37,7 +37,7 @@ The project implements a full digital signal processing (DSP) hardware pipeline:
 * **Timing Closure:** All hardware timing constraints met with positive margins ($WNS = +0.623\text{ ns}$), guaranteeing reliable long-term system stability on-silicon.
 
 
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat&logo=matlab&logoColor=white)
+![](https://img.shields.io/badge/-%23ED1C24?style=flat&logo=matlab&logoColor=white)
 
 
 ## 🚀 How to run the project
