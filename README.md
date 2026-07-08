@@ -35,3 +35,12 @@ The project implements a full digital signal processing (DSP) hardware pipeline:
 * **Power Dissipation:** Highly optimized power profile with an estimated total on-chip power consumption of just **0.455 W**.
 * **FPGA Resource Allocation:** Excellent balancing across the Artix-7 fabric. The most dense block remains the Block RAM (44% utilization) due to the spectral depth required for visual interpolation.
 * **Timing Closure:** All hardware timing constraints met with positive margins ($WNS = +0.623\text{ ns}$), guaranteeing reliable long-term system stability on-silicon.
+  
+## 🚀 How to run the project
+* Downlaod the folder PROGETTO_VIVADO
+* Open the folder in vivado
+* Run simulation, implementation and bitstream
+* Open target and connect the board
+* Connect the vga cable from the board to the monitor
+* Use a tone simulator in audible spectrum to see the spectrum on the monitor and enjoy the project
+
