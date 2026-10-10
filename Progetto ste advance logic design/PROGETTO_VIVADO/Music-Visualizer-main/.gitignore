@@ -1,0 +1,76 @@
+# =========================
+# Vivado generated files
+# =========================
+*.jou
+*.log
+*.str
+*.zip
+*.gz
+*.tar
+*.tmp
+*.backup.log
+*.backup.jou
+*.html
+*.xml
+
+# Vivado project cache & temp
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.xpr.lock
+*.Xil/
+*.data/
+*.gen/
+*.srcs/
+*.sdk/
+*.ip_user_files/
+*.webtalk/
+*.wdb
+*.pb
+*.dcp
+*.xsa
+*.bit
+*.bin
+*.mmi
+*.prj
+*.xise
+*.xise.lock
+
+# Simulation outputs
+*.vcd
+*.wlf
+*.vvp
+*.fst
+*.xsim/
+*.xdbg
+*.xsa
+*.xsa.lock
+
+# Testbench / build artifacts
+*.elf
+*.o
+*.obj
+*.exe
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Ignore Vivado crash logs
+vivado*.crash.log
+vivado*.str
+vivado*.jou
+
+# Custom ignores
+GEMINI.md
+node_modules/
+package.json
+package-lock.json
+
+# Keep .gitignore itself
+!.gitignore
