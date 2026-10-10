@@ -45,7 +45,7 @@ The project implements a full digital signal processing (DSP) hardware pipeline:
 
 
 ## 🚀 How to run the project
-* Downlaod the folder PROGETTO_VIVADO
+* Downlaod the folder: Progetto ste advance logic design
 * Open the folder in vivado
 * Run simulation, implementation and bitstream
 * Open target and connect the board
